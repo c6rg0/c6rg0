@@ -1,6 +1,6 @@
-## Hi:
+## Hi
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=c6rg0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=c6rg0&theme=gruvbox-duo&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats)
 
 <!--
 **c6rg0/c6rg0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
