@@ -1,7 +1,7 @@
 ## Hi
 
-![GitHub Card](https://githubcard.com/c6rg0.svg)
-<!--
+![GitHub Card](https://githubcard.com/g/FClMtTc6.svg)
+
 **c6rg0/c6rg0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
