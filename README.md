@@ -1,4 +1,4 @@
-- OS: NixOS (Linux) [(config)](https://github.com/c6rg0/nix-config/)
-- Text editor: Neovim [(config)](https://github.com/c6rg0/nix-config/blob/master/modules/nvim/init.lua)
-- Languages: Python, Typescript, Bash
-- Languages I have a sprinkle of experience in: Rust, C
+- OS: NixOS Linux [(config)](https://github.com/c6rg0/nix-config/)
+- Text editor: Neovim [(config)](https://github.com/c6rg0/nix-config/blob/master/modules/home-manager/nvim/init.lua)
+- Languages: Python, JavaScript, Typescript, Bash
+- Languages I have a sprinkle of experience in: C, C++, Rust
